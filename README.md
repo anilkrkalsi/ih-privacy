@@ -1,0 +1,2 @@
+# ih-privacy
+privacy-policy
